@@ -1,7 +1,7 @@
 # Device Lens
 Device Lens is a debugging tool that allows you to view logs on your mobile devices (presently **Android only**). This repository is currently just for basic help, the installers and for reporting issues
 
-##Change history:
+## Change history:
 
 v1.0.0 (September 30th, 2019)
 
