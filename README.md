@@ -3,6 +3,12 @@ Device Lens is a debugging tool that allows you to view logs on your mobile devi
 
 ## Change history:
 
+v1.1.0 (January 2nd, 2020)
+
+* Added Device Explorer
+* Added simulation of "doze" mode
+* Fixed auto search/config for location of SDK, adb executable etc so that Device Lens can run on a machine without Delphi installed
+
 v1.0.1 (October 3rd, 2019)
 
 * Fixed parsing of process list for (at least) Symbol TC70 and Lenovo Tab 3 devices
