@@ -3,6 +3,10 @@ Device Lens is a debugging tool that allows you to view logs on your mobile devi
 
 ## Change history:
 
+v1.2.1 (June 3rd, 2020)
+
+* Fixed issue with filtering on Text and Tag
+
 v1.2.0 (May 9th, 2020)
 
 * Added SDK Installer function
