@@ -29,11 +29,25 @@ v1.0.0 (September 30th, 2019)
 
 * Initial release
 
-## Basic Help
+## Help
 
-### Android
+### Requirements
+
+Device Lens requires the Android SDK Tools to be installed, as it uses the adb command to capture the device logs etc. It does not require any Build-tools or Android Platforms to be installed: just the Tools.
+
+When Device Lens starts, it checks whether or not Delphi is installed, and if so, will use the configured Android SDK Tools. If not, Device Lens will prompt for a folder where the Android SDK Tools are installed, or if they are not installed, you can choose to start the Android SDK Installer. The installer allows you to also install Build-tools and Platforms however **these are not required for Device Lens** 
+
+### Device Lens functionality
+
+#### Device Lens main window
+
+![Main View](./Screenshots/MainView.png)
 
 Device Lens lists the connected devices in the list on the top left. Selecting a device will show what processes are running on the device. Double clicking a process name will start the log display and filter on that process.
+
+#### Device Lens toolbar
+
+![Toolbar](./Screenshots/Toolbar.png)
 
 Clicking the **Play** button in the toolbar will start displaying the logs coming from the device. The Play button will turn into a **Stop** button once the log display starts.
 
