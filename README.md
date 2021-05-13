@@ -3,6 +3,13 @@ Device Lens is a debugging tool that allows you to view logs on your mobile devi
 
 ## Change history:
 
+v1.3.0 (May 13th, 2021)
+
+* Added screenshot function
+* Added download APK function
+* Added uninstall package function
+* Fixed another issue with process parsing
+
 v1.2.2 (July 20th, 2020)
 
 * Fixed process parsing - should now work on Android 11
@@ -79,7 +86,7 @@ The Device Explorer button shows a window where you can see all installed packag
 
 ![Device Explorer](./Screenshots/DeviceExplorer.png)
 
-Double-clicking on a package in the list performs a "dump" of information about the package in the Package Dump memo
+Dumping a package in the list performs a "dump" of information about the package in the Package Dump memo
 
 
 
