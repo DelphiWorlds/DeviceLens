@@ -58,7 +58,8 @@ The documentation [starts here](./Docs/Index.md).
 
 ### Tutorial Videos
 
-**Coming soon!**
+* [Introduction to Device Lens](https://www.youtube.com/watch?v=-J3PQiLQ6bw)
+* Using Device Lens to help debug Delphi apps (Coming soon!)
 
 ### Slack channel
 
