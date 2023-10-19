@@ -1,8 +1,26 @@
 # Device Lens
 
-Device Lens is a debugging tool that allows you to view logs on your mobile devices (presently **Android only**). This repository is currently just for the installers, documentation and for reporting issues
+Device Lens is a debugging tool that allows you to view logs on your mobile devices (presently **Android only**). This repository is currently for the documentation and for reporting issues
+
+## Installing Device Lens
+
+**NOTE**: The installers that used to be in this repository have been removed.
+
+The latest version of Device Lens is [here](https://delphiworlds.com/devicelens/latest).
+
+Older versions are available [here](https://delphiworlds.com/devicelens/older).
+
+Just run the setup and follow the prompts!
 
 ## Change history:
+
+v2.1.0 (Oct 19th, 2023)
+
+* A number of significant changes "under the hood"
+* Added ability to save the image in screenshot feature
+* Added "Auto Start" feature - starts logcat immediately when a device is detected
+* Suppress system beep when applying of filter by application name when pressing enter
+* Other minor fixes
 
 v2.0.3 (Jun 12th, 2023)
 
